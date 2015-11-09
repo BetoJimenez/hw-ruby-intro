@@ -2,8 +2,8 @@
 
 # Part 1
 
-def sum arr
-  # YOUR CODE HERE
+def sum(arr)
+  return 0 if arr = 0
 end
 
 def max_2_sum arr
